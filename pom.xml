@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>de.bbwfi.taschenrechner/de.bbwfi.taschenrechner.HelloApplication</mainClass>
+                            <mainClass>de.bbwfi.taschenrechner/de.bbwfi.taschenrechner.TaschenrechnerApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
