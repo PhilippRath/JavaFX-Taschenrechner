@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f08ebc-707e-4734-9159-b3708df62d42" name="Changes" comment="Projekt erzeugen">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/de/bbwfi/taschenrechner/style.css" afterDir="false" />
+    <list default="true" id="d2f08ebc-707e-4734-9159-b3708df62d42" name="Changes" comment="Taschenrechner.fxml erstellt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/bbwfi/taschenrechner/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/bbwfi/taschenrechner/TaschenrechnerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/bbwfi/taschenrechner/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/bbwfi/taschenrechner/TaschenrechnerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/de/bbwfi/taschenrechner/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/de/bbwfi/taschenrechner/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/bbwfi/taschenrechner/TaschenrechnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/bbwfi/taschenrechner/TaschenrechnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684745860550</updated>
-      <workItem from="1684745862055" duration="15528000" />
+      <workItem from="1684745862055" duration="21605000" />
     </task>
     <task id="LOCAL-00001" summary="Projekt erzeugen">
       <created>1684785528924</created>
@@ -100,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684785528924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Projekt in Taschenrechner umbenannt, Taschenrechner.fxml erstellt">
+      <created>1684835062789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684835062789</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Taschenrechner.fxml erstellt">
+      <created>1684835130315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684835130315</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +130,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projekt erzeugen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projekt erzeugen" />
+    <MESSAGE value="Projekt in Taschenrechner umbenannt, Taschenrechner.fxml erstellt" />
+    <MESSAGE value="Taschenrechner.fxml erstellt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taschenrechner.fxml erstellt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
